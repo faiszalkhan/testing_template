@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0.2",
-      "download-url": "https://raw.githubusercontent.com/faiszalkhan/testing_template/master/joe-rogan-ufc-241-weigh-ins.jpg",
+      "download-url": "http://www.fsmpro.io/downloads/FsmProInstaller.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
