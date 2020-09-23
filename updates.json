@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0.2",
+      "latest-version": "1.0.0",
       "download-url": "http://www.fsmpro.io/downloads/FsmProInstaller.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
